@@ -1,4 +1,4 @@
-# Convolutional Autoencoder for Image Denoising
+# EX-07 Convolutional Autoencoder for Image Denoising
 
 ## AIM
 
@@ -125,12 +125,11 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/BALA291/convolutional-denoising-autoencoder/assets/120717501/d49d5611-428f-4ede-ab1c-0fb5d088c374)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
-
-
+![image](https://github.com/BALA291/convolutional-denoising-autoencoder/assets/120717501/ced33530-b359-48f7-b4ee-922cd7245d27)
 
 ## RESULT
+Thus, a Convolutional Auto Encoder for Denoising was sucessfully implemented.
